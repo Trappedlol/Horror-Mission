@@ -1,3 +1,7 @@
+author = "Raide & Trapped";
+onLoadName = "Horror Mission";
+onLoadMission = "Are you not scared?";
+
 class CfgMusic
 {
 sounds[] = {01,02};
